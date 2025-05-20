@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica;
+    color: white !important;
+    background: #050505;
+    margin: 0;
+}
+
+.logo {
+    height: 2em;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+.titulo {
+    margin-left: 30px;
+}
+
+.bienvenido {
+    margin-left: 20px;
+    padding: 20px 25px;
+    height: 60px;
+    width: 100%;
+}
+
+.contenedor-img {
+    text-align: center;
+}
+
+.imagen {
+    width: 60%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 0px;
+}
+
+
+footer {
+    font-family: Arial, Helvetica;
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+    background: #050505;
+    padding: 20px 25px;
+    display: block;
+}
+
+body {
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+body p {
+    color: green;
+}
